@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kotlinEx</string>
+    <string name="txt_name">Kyaw Htet Zaw</string>
+    <string name="txt_city">Yangon,Myanmar</string>
+    <string name="txt_follow">Follow</string>
+    <string name="txt_about">He is an actor. He works at MRTV-4. He is handsome. He is my idol.</string>
+</resources>
